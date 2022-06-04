@@ -3,7 +3,7 @@
 .vacio{
 	width: 100%;
 	height: 700px;
-	background: url(FondoMorado.jpg);
+	background: url(/FondoMorado.jpg);
 }
 
 .contenedor{
